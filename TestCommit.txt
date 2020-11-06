@@ -2,4 +2,3 @@ Hello
 
 Line 2
 
-Method 1
